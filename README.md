@@ -71,9 +71,6 @@ TRAIN_IMG_DIR = DRIVE_PATH + 'Dataset/mcocr_public/mcocr_train_data/train_images
 | Character Error Rate (CER) |    0.1502    |
 | Sequence Accuracy          |    59.03%    |
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1242824807456964762/1387845524958216212/tai_xuong.png?ex=685ed35e&is=685d81de&hm=dad41c83febc8d054b0fcbbc73dcf4b0b278bf887ce8b0b573773b820efdbcd5&" alt="Training Chart" width="800"/>
-</p>
 
 ---
 
